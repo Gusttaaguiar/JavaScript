@@ -1,0 +1,1 @@
+console.log("Menino, esse é o script dois");
